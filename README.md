@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhan2006p" alt="madhan2006p" /></a> </p>
 
-- 🔭 I’m currently working on **Phishing Project**
+- 🔭 I’m currently working on **Data Wiping Project**
 
-- 🌱 I’m currently learning **CUDA using C/ C++ , Desktop Development With C++**
+- 🌱 I’m currently learning **How C are Powerfull in machines**
 
-- 💬 Ask me about **Advanced C++ concept**
+- 💬 Ask me about **Advanced C++/C concept**
 
 - 📫 How to reach me **madhanp28072006@gmail.com**
 
