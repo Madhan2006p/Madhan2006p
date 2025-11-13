@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on **Secure Data Wiping for Trustworthy IT Asset Recycling** — a cross-platform system aligned with **NIST SP 800-88** standards, featuring blockchain-based wipe certificates and LAN-connected wipe orchestration.  
 - 💻 Skilled in **C++, Python (PyQt6), Flutter, and System-Level Development** — building performance-oriented, secure desktop & cross-platform applications.  
 - ⚙️ Passionate about **AI Integration in System Tools**, GPU Scheduling, and **Intelligent Automation Frameworks**.  
-- 🌱 Currently exploring **Advanced OS-Level C/C++ concepts** and **CUDA programming**.  
-- 💬 Ask me about **PyQt6, C++ backend integration, Flutter desktop, or GPU task schedulers.**  
+- 🌱 Currently exploring **Advanced OS-Level C/C++ concepts** and **ASM**.  
+- 💬 Ask me about **C/C++ , Linux commands**  
 - 📫 Reach me at **madhanp28072006@gmail.com**  
 
 ---
