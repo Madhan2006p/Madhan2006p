@@ -1,69 +1,55 @@
-<h1 align="center">👋 Hi, I'm Madhan</h1>
-<h3 align="center">System Software Engineer from India 🇮🇳</h3>
+👋 Hi, I'm Madhan
+System Software Engineer • India 🇮🇳
+🧠 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhan2006p&label=Profile%20views&color=0e75b6&style=flat" alt="madhan2006p" />
-</p>
+I’m a system-level developer passionate about building high-performance, secure, and cross-platform software.
+Currently working on Secure Data Wiping for Trustworthy IT Asset Recycling, a NIST SP 800-88–aligned solution featuring:
 
----
+Blockchain-based wipe certificates
 
-### 🧠 About Me
-- 🔭 I’m currently working on **Secure Data Wiping for Trustworthy IT Asset Recycling** — a cross-platform system aligned with **NIST SP 800-88** standards, featuring blockchain-based wipe certificates and LAN-connected wipe orchestration.  
-- 💻 Skilled in **C++, Python (PyQt6), Flutter, and System-Level Development** — building performance-oriented, secure desktop & cross-platform applications.  
-- ⚙️ Passionate about **AI Integration in System Tools**, GPU Scheduling, and **Intelligent Automation Frameworks**.  
-- 🌱 Currently exploring **Advanced OS-Level C/C++ concepts** and **ASM**.  
-- 💬 Ask me about **C/C++ , Linux commands**  
-- 📫 Reach me at **madhanp28072006@gmail.com**  
+LAN-based multi-device wipe orchestration
 
----
+Offline wiping ISO + secure mobile/desktop apps
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/madhan-p-b2b19a314/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhan P" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/eren_it4yf8/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+Device brick mode & tamper-protected logs
 
----
+I love working at the intersection of systems programming, cybersecurity, automation, and OS internals.
 
-### ⚙️ Languages & Tools
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+What I enjoy building:
 
----
+🛠️ System tools in C/C++, Python & ASM
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhan2006p&show_icons=true&locale=en&layout=compact" alt="madhan2006p" />
-</p>
+🧩 Cross-platform apps using Flutter, PyQt6
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhan2006p&show_icons=true&locale=en" alt="madhan2006p" /></p>
+🧠 Intelligent tools powered by AI & GPU optimization
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhan2006p&" alt="madhan2006p" /></p>
+🔒 DevSecOps-aligned secure architectures
 
----
+⚙️ Low-level OS and performance-oriented modules
 
-### 🏆 Achievements
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhan2006p&theme=darkhub" alt="madhan2006p" />
-  </a>
-</p>
+📫 Reach me at:
+madhanp28072006@gmail.com
+
+🔗 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/madhan-p-b2b19a314/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/> </a> <a href="https://leetcode.com/eren_it4yf8/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/> </a> </p>
+⚙️ Technologies & Tools
+Programming Languages
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asm/asm-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> </p>
+Frameworks & Platforms
+<p align="left"> <img src="https://drogon.org/assets/img/drogon-logo.png" width="40" title="Drogon C++ Framework"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/> </p>
+System & Backend
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </p>
+Cybersecurity & DevSecOps
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/> </p>
+Other Interests
+
+🔗 Blockchain & distributed systems
+
+🧬 OS internals & kernel-level exploration
+
+⚙️ High-performance backend engineering
+
+🔍 Reverse engineering & security analysis
+
+🏆 Achievements
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=madhan2006p&theme=darkhub&margin-w=10" /> </p>
