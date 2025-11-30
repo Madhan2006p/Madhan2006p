@@ -50,10 +50,12 @@ I enjoy working at the intersection of **systems programming, cybersecurity, aut
 
 ### **Frameworks & Platforms**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/drogonframework/drogon/master/drogon.png" width="40" title="Drogon C++ Framework"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+  <!-- Drogon (uses C++ icon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="Drogon (C++ Backend Framework)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" title="Qt / PyQt"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
 </p>
+
 
 ### **System & Backend**
 <p align="left">
