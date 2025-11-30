@@ -32,9 +32,6 @@ I enjoy working at the intersection of **systems programming, cybersecurity, aut
   <a href="https://www.linkedin.com/in/madhan-p-b2b19a314/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/eren_it4yf8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
 </p>
 
 ---
@@ -53,7 +50,7 @@ I enjoy working at the intersection of **systems programming, cybersecurity, aut
 
 ### **Frameworks & Platforms**
 <p align="left">
-  <img src="https://drogon.org/assets/img/drogon-logo.png" width="40" title="Drogon C++ Framework"/>
+  <img src="https://raw.githubusercontent.com/drogonframework/drogon/master/drogon.png" width="40" title="Drogon C++ Framework"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
