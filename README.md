@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Madhan</h1>
-<h3 align="center">System Software Engineer from India 🇮🇳</h3>
+<h1 align="center">Hi, I'm Madhan</h1>
+<h3 align="center">System Software Engineer</h3>
 
 ---
 
