@@ -20,10 +20,10 @@
 <a href="https://github.com/madhan2006p">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<br></br>
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="330"/>
-
+<br></br>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=madhan2006p&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
