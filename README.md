@@ -122,37 +122,9 @@ I enjoy working at the intersection of:
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="280" style="aspect-ratio:1/1; object-fit:cover;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="380" style="aspect-ratio:1/1; object-fit:cover;" />
 </p>
 
 
----
 
-<div align="center" style="margin-top: 20px;">
 
-<div style="
-  max-width: 750px;
-  padding: 25px;
-  border-radius: 12px;
-  background: linear-gradient(135deg, #0f172a, #1e293b);
-  color: #22d3ee;
-  font-style: italic;
-  font-size: 18px;
-  line-height: 1.6;
-  box-shadow: 0 0 20px rgba(34, 211, 238, 0.2);
-">
-
-<span style="font-size: 30px; color: #a78bfa;">“</span>
-
-In the quiet depths of code and machine,<br>
-where logic whispers and silence speaks,<br>
-I seek not ease—but mastery.
-
-<br><br>
-
-<div align="right" style="color: #93c5fd;">
-— Madhan
-</div>
-
-</div>
-</div>
