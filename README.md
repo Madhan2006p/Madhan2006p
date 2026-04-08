@@ -1,6 +1,6 @@
-<!-- Banner Image -->
+<!-- 🔥 Hero Banner (Perfect Loop GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erenon/cdn/master/pixel-room.gif" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/retro-loop.gif" width="100%" alt="Perfect Loop Banner"/>
 </p>
 
 <h1 align="center">Madhan P</h1>
@@ -9,23 +9,32 @@
 ---
 
 ## 🧠 About Me
+
+<img align="right" alt="coding" width="250" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif"/>
+
 I’m a system-level developer passionate about building **high-performance, secure, and cross-platform software**.
 
-Currently working on **Secure Data Wiping for Trustworthy IT Asset Recycling**, a NIST SP 800-88–aligned solution featuring:
+🔧 Currently focused on an **Assembly (ASM) based project**  
+- Writing and reading low-level programs  
+- Understanding CPU-level execution  
+- Exploring system internals through ASM  
 
-- 🌐 LAN-driven multi-device wiping  
-- 💽 Offline ISO wiping module  
-- 🧾 Tamper-proof logs & device brick mode  
+🎯 My next goal is to **contribute to the Linux open-source community**
 
-I am also **exploring low-level system design through Assembly (ASM)** — focusing on **writing, reading, and understanding system-level code**.
-
-🎯 My next goal is to **contribute to the Linux open-source community**.
-
-I enjoy working at the intersection of **systems programming, cybersecurity, automation, and OS internals**.
+I enjoy working at the intersection of:
+- ⚙️ Systems Programming  
+- 🔐 Cybersecurity  
+- 🧠 OS Internals  
+- 🤖 Automation  
 
 ---
 
 ## 🚀 What I Love Building
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/programming.gif" width="300"/>
+</p>
+
 - 🛠️ System tools in **C, C++, ASM, Python**  
 - 🧠 High-performance applications with **Python backends**  
 - ⚙️ OS-level modules & automation frameworks  
@@ -86,6 +95,11 @@ I enjoy working at the intersection of **systems programming, cybersecurity, aut
 ---
 
 ## 🏆 Achievements
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="150"/>
+</p>
+
 - 🥇 **BLS360 Winner**
 
 <p align="left">
@@ -95,6 +109,11 @@ I enjoy working at the intersection of **systems programming, cybersecurity, aut
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stats.gif" width="200"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhan2006p&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan2006p&theme=tokyonight" />
