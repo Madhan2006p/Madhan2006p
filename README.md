@@ -107,12 +107,10 @@ section .data
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhan2006p&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan2006p&theme=tokyonight&border_radius=12&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan2006p&layout=compact&theme=tokyonight&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="40%"/>
 
 </div>
 
