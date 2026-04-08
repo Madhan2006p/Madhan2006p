@@ -98,11 +98,18 @@ I enjoy working at the intersection of:
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/trophy.gif" width="150"/>
-</p>
-
 - 🥇 **BLS360 Winner**
+- 🥇 **2x College Level Hackthon winner**
+- 🥇 **SIH Internal Hackathon Winner**
+
+## 🤝 Teammates
+
+<p align="center">
+  <a href="https://github.com/Akilesh-GA">Akilesh-GA</a> •
+  <a href="https://github.com/Jaisree146">Jaisree146</a> •
+  <a href="https://github.com/NivethaV006">NivethaV006</a> •
+  <a href="https://github.com/dharshini-31">dharshini-31</a>
+</p>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=madhan2006p&theme=darkhub&margin-w=10"/>
