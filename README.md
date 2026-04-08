@@ -102,13 +102,27 @@ I enjoy working at the intersection of:
 - 🥇 **2x College Level Hackthon winner**
 - 🥇 **SIH Internal Hackathon Winner**
 
+---
+
 ## 🤝 Teammates
 
 <p align="center">
-  <a href="https://github.com/Akilesh-GA">Akilesh-GA</a> •
-  <a href="https://github.com/Jaisree146">Jaisree146</a> •
-  <a href="https://github.com/NivethaV006">NivethaV006</a> •
-  <a href="https://github.com/dharshini-31">dharshini-31</a>
+  <a href="https://github.com/Akilesh-GA">
+    <img src="https://github.com/Akilesh-GA.png" width="60" style="border-radius:50%" />
+  </a>
+  <a href="https://github.com/Jaisree146">
+    <img src="https://github.com/Jaisree146.png" width="60" style="border-radius:50%" />
+  </a>
+  <a href="https://github.com/NivethaV006">
+    <img src="https://github.com/NivethaV006.png" width="60" style="border-radius:50%" />
+  </a>
+  <a href="https://github.com/dharshini-31">
+    <img src="https://github.com/dharshini-31.png" width="60" style="border-radius:50%" />
+  </a>
+</p>
+
+<p align="center">
+  Akilesh-GA • Jaisree146 • NivethaV006 • dharshini-31
 </p>
 
 <p align="left">
