@@ -104,42 +104,41 @@ I enjoy working at the intersection of:
 
 ---
 
----
 
 ## 🤝 Teammates
 
-<p align="center">
-  <a href="https://github.com/Akilesh-GA">
-    <img src="https://github.com/Akilesh-GA.png" width="70" style="border-radius:50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Jaisree146">
-    <img src="https://github.com/Jaisree146.png" width="70" style="border-radius:50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NivethaV006">
-    <img src="https://github.com/NivethaV006.png" width="70" style="border-radius:50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dharshini-31">
-    <img src="https://github.com/dharshini-31.png" width="70" style="border-radius:50%;" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>
-    <b>
-      <a href="https://github.com/Akilesh-GA">Akilesh-GA</a> &nbsp;•&nbsp;
-      <a href="https://github.com/Jaisree146">Jaisree146</a> &nbsp;•&nbsp;
-      <a href="https://github.com/NivethaV006">NivethaV006</a> &nbsp;•&nbsp;
-      <a href="https://github.com/dharshini-31">dharshini-31</a>
-    </b>
-  </sub>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Akilesh-GA">
+        <img src="https://github.com/Akilesh-GA.png" width="80" style="border-radius:50%;" /><br/>
+        <sub><b>Akilesh-GA</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jaisree146">
+        <img src="https://github.com/Jaisree146.png" width="80" style="border-radius:50%;" /><br/>
+        <sub><b>Jaisree146</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NivethaV006">
+        <img src="https://github.com/NivethaV006.png" width="80" style="border-radius:50%;" /><br/>
+        <sub><b>NivethaV006</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dharshini-31">
+        <img src="https://github.com/dharshini-31.png" width="80" style="border-radius:50%;" /><br/>
+        <sub><b>dharshini-31</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  Akilesh-GA • Jaisree146 • NivethaV006 • dharshini-31
-</p>
+</div>
 
 ---
 
