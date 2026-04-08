@@ -52,7 +52,7 @@ I enjoy working at the intersection of:
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/madhan-p-b2b19a314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="30" width="40"/>
   </a>
 </p>
 
