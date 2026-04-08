@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Madhan</h1>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erenon/cdn/master/pixel-room.gif" alt="banner" />
+</p>
+
+<h1 align="center">Madhan P</h1>
 <h3 align="center">System Software Engineer</h3>
 
 ---
@@ -8,22 +13,28 @@ I’m a system-level developer passionate about building **high-performance, sec
 
 Currently working on **Secure Data Wiping for Trustworthy IT Asset Recycling**, a NIST SP 800-88–aligned solution featuring:
 
-- Blockchain-based wipe certificates  
-- LAN-driven multi-device wiping  
-- Offline ISO wiping module  
-- Tamper-proof logs & device brick mode  
+- 🌐 LAN-driven multi-device wiping  
+- 💽 Offline ISO wiping module  
+- 🧾 Tamper-proof logs & device brick mode  
+
+I am also **exploring low-level system design through Assembly (ASM)** — focusing on **writing, reading, and understanding system-level code**.
+
+🎯 My next goal is to **contribute to the Linux open-source community**.
 
 I enjoy working at the intersection of **systems programming, cybersecurity, automation, and OS internals**.
 
-**What I love building:**
-- 🛠️ System tools in **C, C++, ASM, Python**  
-- 📦 Secure backend systems with **Drogon (C++)**, Python  
-- 🧠 AI-integrated high-performance apps  
-- ⚙️ OS-level modules & automation frameworks  
-- 🔒 DevSecOps–aligned secure architectures  
+---
 
-📫 **Contact:**  
-**madhanp28072006@gmail.com**
+## 🚀 What I Love Building
+- 🛠️ System tools in **C, C++, ASM, Python**  
+- 🧠 High-performance applications with **Python backends**  
+- ⚙️ OS-level modules & automation frameworks  
+- 🔒 Secure and efficient system architectures  
+
+---
+
+## 📫 Contact
+📧 **madhanp28072006@gmail.com**
 
 ---
 
@@ -38,47 +49,53 @@ I enjoy working at the intersection of **systems programming, cybersecurity, aut
 
 ## ⚙️ Technologies & Tools
 
-### **Programming Languages**
+### 💻 Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 </p>
 
-### **Frameworks & Platforms**
+---
+
+### ⚙️ Frameworks & Platforms
 <p align="left">
-  <!-- Drogon (uses C++ icon) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="Drogon (C++ Backend Framework)"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" title="Qt / PyQt"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
 </p>
 
+---
 
-### **System & Backend**
+### 🖥️ System & Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
-### **Cybersecurity & DevSecOps**
+---
+
+### 🔐 Cybersecurity & DevSecOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40"/>
 </p>
 
-### **Other Interests**
-- 🔗 Blockchain & distributed systems  
-- ⚙️ Backend development  
-- 🔍 Reverse engineering  
-- 🧬 Operating system internals  
-
 ---
 
 ## 🏆 Achievements
+- 🥇 **BLS360 Winner**
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=madhan2006p&theme=darkhub&margin-w=10"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhan2006p&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan2006p&theme=tokyonight" />
 </p>
