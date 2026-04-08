@@ -104,29 +104,41 @@ I enjoy working at the intersection of:
 
 ---
 
+---
+
 ## 🤝 Teammates
 
 <p align="center">
   <a href="https://github.com/Akilesh-GA">
-    <img src="https://github.com/Akilesh-GA.png" width="60" style="border-radius:50%" />
+    <img src="https://github.com/Akilesh-GA.png" width="70" style="border-radius:50%;" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Jaisree146">
-    <img src="https://github.com/Jaisree146.png" width="60" style="border-radius:50%" />
+    <img src="https://github.com/Jaisree146.png" width="70" style="border-radius:50%;" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NivethaV006">
-    <img src="https://github.com/NivethaV006.png" width="60" style="border-radius:50%" />
+    <img src="https://github.com/NivethaV006.png" width="70" style="border-radius:50%;" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dharshini-31">
-    <img src="https://github.com/dharshini-31.png" width="60" style="border-radius:50%" />
+    <img src="https://github.com/dharshini-31.png" width="70" style="border-radius:50%;" />
   </a>
 </p>
 
 <p align="center">
-  Akilesh-GA • Jaisree146 • NivethaV006 • dharshini-31
+  <sub>
+    <b>
+      <a href="https://github.com/Akilesh-GA">Akilesh-GA</a> &nbsp;•&nbsp;
+      <a href="https://github.com/Jaisree146">Jaisree146</a> &nbsp;•&nbsp;
+      <a href="https://github.com/NivethaV006">NivethaV006</a> &nbsp;•&nbsp;
+      <a href="https://github.com/dharshini-31">dharshini-31</a>
+    </b>
+  </sub>
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhan2006p&theme=darkhub&margin-w=10"/>
+<p align="center">
+  Akilesh-GA • Jaisree146 • NivethaV006 • dharshini-31
 </p>
 
 ---
