@@ -1,6 +1,7 @@
 <!-- 🔥 Hero Banner (Perfect Loop GIF) -->
+<!-- 🔥 Hero Banner (Perfect Loop GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/retro-loop.gif" width="100%" alt="Perfect Loop Banner"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Madhan P</h1>
