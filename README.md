@@ -22,7 +22,7 @@
 </a>
 <br></br>
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="330"/>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="380"/>
 <br></br>
 
 <!-- Profile Views -->
