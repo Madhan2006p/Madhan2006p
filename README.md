@@ -34,7 +34,7 @@ I enjoy working at the intersection of:
 ## 🚀 What I Love Building
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/programming.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
 </p>
 
 - 🛠️ System tools in **C, C++, ASM, Python**  
